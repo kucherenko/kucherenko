@@ -1,9 +1,3 @@
-![stand with Ukraine](https://badgen.net/badge/support/UKRAINE/?color=0057B8&labelColor=FFD700)
-
-# Hi, I'm Andrey Kucherenko
-
-## Projects
-
 ### [jscpd](https://jscpd.dev) — Copy/Paste Detector for Source Code
 
 A copy/paste detector for source code that hunts down duplicated blocks across **150+ languages**.
