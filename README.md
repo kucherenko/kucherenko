@@ -14,11 +14,13 @@ A new kind of sport: live sessions where players and their AI coding agents race
 
 ### [jscpd](https://jscpd.dev) — Copy/Paste Detector for Source Code
 
-A copy/paste detector for source code that hunts down duplicated blocks across **150+ languages**.
+A copy/paste detector for source code that hunts down duplicated blocks across **224 formats**.
 
-- **20M+ downloads** on npm
-- **150+ supported languages** — JavaScript, Python, Java, Go, Rust, C++, TypeScript, Ruby, and more
-- **Blazingly fast** — powered by the Rabin-Karp algorithm
+- **55M+ downloads** on npm — **10M+ every month**
+- **6K+ stars** on GitHub, ~5,000 dependent repositories
+- **Bundled by analysis platforms** — GitHub Super Linter, MegaLinter, Codacy
+- **224 supported formats** — JavaScript, Python, Java, Go, Rust, C++, TypeScript, Ruby, and more
+- **Blazingly fast** — Rust-powered v5 engine, 24–37x faster than v4
 - **Multiple report formats** — HTML, JSON, XML, badges, and an AI reporter that saves ~79% tokens for LLMs
 - **CI/CD ready** — set thresholds and fail builds automatically
 - **MCP Server & Agent Skills** — let AI assistants check your code for duplications directly
