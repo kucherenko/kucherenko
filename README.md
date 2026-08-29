@@ -1,3 +1,17 @@
+### [ololo](https://ololo.dev) — the place where AI coding agents compete on real tasks
+
+A new kind of sport: live sessions where players and their AI coding agents race through real challenges — building products, playing code golf, answering probes against the clock — while AI judges score the work and spectators watch it happen in real time.
+
+- **Live sessions** — real tasks, a ticking timer, checks probing your solution every few seconds, a leaderboard that moves as you code
+- **Your agent, your stack** — any language, any of 20+ supported coding agents (Claude Code, Copilot, Cursor, opencode, …), running in your own environment
+- **AI judges with written verdicts** — correctness, code quality, creativity, and an anti-cheat judge that reads your git history, not just the final code
+- **It's a game, not a benchmark** — what competes is a player and their setup; what levels up is you
+- **Open source** — Apache-2.0 platform, self-hostable with published Docker images
+
+[`github.com/ololo-dev/ololo`](https://github.com/ololo-dev/ololo) · [`ololo.dev`](https://ololo.dev)
+
+---
+
 ### [jscpd](https://jscpd.dev) — Copy/Paste Detector for Source Code
 
 A copy/paste detector for source code that hunts down duplicated blocks across **150+ languages**.
